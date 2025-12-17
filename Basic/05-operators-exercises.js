@@ -9,7 +9,6 @@ let b = 2-1
 let c = 2*3
 let d = 10/5
 let e = 2**4
-
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
 
